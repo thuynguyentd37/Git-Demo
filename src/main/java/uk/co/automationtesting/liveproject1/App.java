@@ -17,4 +17,7 @@ public class App
         //fhgsdh
 //sdgdgdfdfhgfh
     }
+    public void create() {
+    	
+    }
 }
