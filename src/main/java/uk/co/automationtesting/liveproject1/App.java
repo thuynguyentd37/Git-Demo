@@ -17,6 +17,7 @@ public class App
         //fhgsdh
 //sdgdgdfdfhgfh
     }
+<<<<<<< HEAD
     public void create() {
     	System.out.println( "Create new data" );
     }
@@ -24,4 +25,6 @@ public class App
     public void develop() {
     	System.out.println( "Create new data" );
     }
+=======
+>>>>>>> master
 }
