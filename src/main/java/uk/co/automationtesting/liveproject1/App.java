@@ -17,7 +17,4 @@ public class App
         //fhgsdh
 //sdgdgdfdfhgfh
     }
-    public void create() {
-    	System.out.println( "Create new data" );
-    }
 }
