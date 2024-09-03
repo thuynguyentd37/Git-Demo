@@ -20,4 +20,8 @@ public class App
     public void create() {
     	System.out.println( "Create new data" );
     }
+    
+    public void develop() {
+    	System.out.println( "Create new data" );
+    }
 }
